@@ -1,0 +1,8 @@
+sudo useradd -m -s /bin/zsh -c "Áslaug Hauksdóttir" -G allir,forritun,markadsmal aslaug
+sudo useradd -m -s /bin/bash -c "Björn Jóhannsson" -G allir,forritun bjorn
+sudo useradd -m -s /bin/bash -c "Bryndís Samúelsdóttir" -G allir,forritun bryndis
+sudo useradd -m -s /bin/bash -c "Elín Sveinsdóttir" -G allir,forritun elin
+sudo useradd -m -s /bin/bash -c "Ellert Gestsson" -G allir,forritun ellert
+sudo useradd -m -s /bin/bash -c "Elsa Jónsdóttir" -G allir,markadsmal elsa
+sudo useradd -m -s /bin/bash -c "Erla Þorbjörnsdóttir" -G allir,markadsmal erla
+sudo useradd -m -s /bin/bash -c "Erlendur Jónsson" -G allir,markadsmal erlendur
